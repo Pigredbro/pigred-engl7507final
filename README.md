@@ -17,7 +17,7 @@ The goal is not accuracy, but to show how little input is needed for a system to
 **How to view**
 
 - Locally: open `index.html` in any modern browser  
-- Online: visit the GitHub Pages deployment for this repository (if enabled)
+- Online: visit the GitHub Pages deployment for this repository
 
 
 ---
@@ -40,4 +40,4 @@ The goal is not accuracy, but to show how little input is needed for a system to
 **使用方式**
 
 - 本地预览：直接用任意现代浏览器打开 `index.html`  
-- 在线浏览：访问本仓库对应的 GitHub Pages 页面（如已开启）
+- 在线浏览：访问本仓库对应的 GitHub Pages 页面
